@@ -1,0 +1,37 @@
+#app {
+  width: 100%;
+  font-family: -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  "Roboto",
+  "Oxygen",
+  "Ubuntu",
+  "Cantarell",
+  "Fira Sans",
+  "Droid Sans",
+  "Helvetica Neue",
+  sans-serif;
+}
+
+#app > h1 {
+  margin-bottom: 2em;
+  color: rgb(93, 60, 246);
+  font-size: 2em;
+  text-align: center;
+}
+
+#app > div {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+#app > div > * {
+  margin: 0 auto;
+}
+
+#app > div > h2 {
+  margin-bottom: 1em;
+  color: rgb(158, 119, 255);
+  font-size: 1.5em;
+  text-align: center;
+}
